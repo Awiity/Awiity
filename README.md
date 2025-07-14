@@ -4,7 +4,7 @@
 
 <h3 align="left">Full-stack developer and student from Czechia/Russia</h3>
 
-<h4>https://opal-social-mocha.vercel.app/news</h4>
+<h4>https://opal-social-mocha.vercel.app</h4>
 
 ###
 
